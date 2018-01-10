@@ -1,0 +1,12 @@
+{
+	"files": [
+		"index.ts"
+	],
+	"compilerOptions": {
+		"strict": true,
+		"noUnusedLocals": true,
+		"target": "es5",
+		"inlineSourceMap": true,
+		"declaration": true
+	}
+}

@@ -1,0 +1,23 @@
+{
+	"name": "@iepaas/abstract-key-value-store",
+	"version": "0.0.1-dev.4",
+	"description": "An abstract key-value store to be implemented by @iepaas/db-adapter, and a storage library on the browser",
+	"main": "src/index.ts",
+	"scripts": {
+		"build": "tsc"
+	},
+	"author": "Pablo Rodríguez <pabloviolin8@gmail.com>",
+	"license": "Apache-2.0",
+	"devDependencies": {
+		"typescript": "^2.6.1"
+	},
+	"dependencies": {},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/iepaas/abstract-key-value-store.git"
+	},
+	"bugs": {
+		"url": "https://github.com/iepaas/abstract-key-value-store/issues"
+	},
+	"homepage": "https://github.com/iepaas/abstract-key-value-store#readme"
+}
